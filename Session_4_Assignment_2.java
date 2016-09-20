@@ -1,4 +1,10 @@
 
+
+
+//Assignment – Sort an array and insert an element inside it.
+
+
+
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
@@ -51,3 +57,17 @@ public class Session_4_Assignment_2 {
                    
                                      
 		}
+		
+		
+/* Output : 
+length of array 8
+-15, -11, -8, -5, 3, 5, 5, 10
+Given array sorted 
+
+length of array 9
+-15, -11, 99, -8, -5, 3, 5, 5, 10
+ element inserted array 
+
+length of array 9
+-15, -11, -8, -5, 3, 5, 5, 10, 99
+edited array sorted    */
